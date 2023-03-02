@@ -1,6 +1,6 @@
 # my-quarkus-app1
 
-This is a sample quarkus app
+This is a sample quarkus app for Jason
 
 ## Running the application in dev mode
 
